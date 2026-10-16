@@ -1,16 +1,21 @@
-## Hi there 👋
+# hey, I'm Chinu 👋
 
-<!--
-**chinutank77-byte/chinutank77-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+developer. I spend most of my time deep in **web scraping** and **HTTP requests**, and I like **reverse engineering** stuff to see how it actually works.
 
-Here are some ideas to get you started:
+## what i'm into
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **scraping** — scrapers that hold up against rate limits, JS-heavy sites, and the classic "there's no API for that"
+- **http** — I'm way too comfortable staring at raw requests and responses. headers, cookies, tokens, proxies — all of it
+- **reverse engineering** — poking at APIs and apps until they give up their secrets
+
+honestly, the part I enjoy is the puzzle — finding the endpoint nobody meant for you to find, or automating the thing everyone said can't be automated.
+
+## tools i reach for
+
+`python` `javascript` `automation` `tls_client` `selenium` `playwright` `truedriver` `nodriver` `curl_cffi` `http` `docker` `linux` `aws`
+
+## contact
+
+- discord: `chinu.new8`
+- telegram: [@sureop10](https://t.me/sureop10)
+- github: [@chinutank77-byte](https://github.com/chinutank77-byte)
