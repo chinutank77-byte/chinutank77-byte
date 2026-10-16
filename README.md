@@ -16,6 +16,6 @@ honestly, the part I enjoy is the puzzle — finding the endpoint nobody meant f
 
 ## contact
 
-- discord: `chinu.new8`
+- discord: [chinu.new8](https://discord.com/users/1514668941740605442)
 - telegram: [@sureop10](https://t.me/sureop10)
 - github: [@chinutank77-byte](https://github.com/chinutank77-byte)
